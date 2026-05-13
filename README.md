@@ -1,4 +1,4 @@
-# RizeOS Job & Networking Portal
+#  Job & Networking Portal
 
 A full-stack web application inspired by LinkedIn, Upwork, and AngelList, enhanced with AI-powered features, Web3 wallet integration, and blockchain payments.
 
@@ -231,9 +231,6 @@ npm run build
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is part of the RizeOS Core Team Internship assessment.
 
 ## Support
 
@@ -242,6 +239,4 @@ For questions or issues:
 - Review the code comments
 - Open an issue in the repository
 
----
 
-**Built with ❤️ for the RizeOS Core Team Internship**
